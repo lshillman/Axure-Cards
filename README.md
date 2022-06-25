@@ -6,7 +6,7 @@ This is a widget library for Axure RP that greatly simplifies the process of cre
 
 ## Live Demo
 
-See an example [here](https://lshillman.github.io/axure-cards). Note that the card appearance and content are completely customizable.
+See an example [here](https://lshillman.github.io/Axure-Cards/). Note that the card appearance and content are completely customizable.
 
 ## Installation
 
